@@ -32,4 +32,4 @@ This project demonstrates how to create UI components in SwiftUI based on data f
 
 ---
 
-By following these steps, you can create a SwiftUI application that fetches data from an API and displays it in various UI components. This project can serve as a starting point for more complex applications involving data visualization and dynamic content.
+By following these steps, you can create a SwiftUI application that fetches data from an API and displays it in various UI components.
